@@ -6,10 +6,7 @@
        url("/fonts/centurygothic.ttf") format("ttf"),
        url("/fonts/centurygothic_bold.ttf") format("ttf"),
 }
-:root {
-  --primary-color: #007bff;
-  --secondary-color: #6c757d;
-  }
+
   
 * {
   box-sizing: border-box;
